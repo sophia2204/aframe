@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "start": "live-server docs"
+  },
+  "dependencies": {
+    "aframe-animation-component": "^5.1.2",
+    "aframe-look-at-component": "^1.0.0",
+    "aframe-play-sound-on-event": "^1.0.3"
+  }
+}
