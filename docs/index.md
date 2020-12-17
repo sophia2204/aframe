@@ -12,7 +12,7 @@
                 <img id="sky" src="assets/sky.jpg">
                 <img id="grass" src="assets/grass.jpg">
                 <img id="trunk" src="assets/trunk.jpg">
-                <img id="tree" src="assets/leaves.JPG">
+                <img id="tree" src="assets/leaves.jpg">
                 
                 <a-asset-item id="low_poly_dog" src="assets/low_poly_dog/scene.gltf"></a-asset-item>
                 <a-asset-item id="house" src="assets/house/scene.gltf"></a-asset-item>
